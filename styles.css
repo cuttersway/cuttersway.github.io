@@ -1,4 +1,4 @@
-body {
+﻿body {
   background-color: #ADD8E6;
 }
 h1 {
@@ -30,4 +30,82 @@ footer ul li{
 }
 #boulder{
   image-orientation: center;
+}
+html
+header {
+  list-style-type: square;
+  text-align: center;
+  font: 29px georgia;
+  line-height:2.5;
+background-color: orange;
+color: white;
+margin: 12;
+padding: 9;
+border: 29;
+}
+h1 {
+  text-align: center;
+  font-size: 55px;
+}
+
+body {
+background-color: black;
+color: crimson;
+border: solid; 20px;
+padding: 15px; 20px;
+}
+
+article {
+  background-color: #4682B4;
+  color: white;
+  padding: 25px;
+}
+h2 {
+  border: solid 15px;
+  border-color: white;
+  background-color: #F5DEB3;
+  color: black;
+  text-align: center;
+  }
+p {border: solid 5px;
+  border-color: red;
+  background-color: black;
+  font-size: 23px;
+}
+img{
+  border:solid 30px;
+  padding 0px;
+  border-color: black;
+  text-align: center;
+}
+body {
+  background-color: #ADD8E6
+}
+h1 {
+  color: red; text-align: center;
+font-size: 100px;
+}
+p {
+  text-align: center;
+  font-size: 30px;
+  }
+a {
+  font-size: 30px;
+}
+.graphic {
+  width: 360px;
+
+
+}
+.pic-center {
+  text-align: center;
+}
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
 }
